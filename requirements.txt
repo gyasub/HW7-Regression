@@ -1,0 +1,7 @@
+pytest
+numpy
+scikit-learn
+pandas
+matplotlib
+
+
